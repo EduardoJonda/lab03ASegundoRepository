@@ -12,6 +12,6 @@ public class StudentController
         showMessage();
     }
     private static void showMessage() {
-    	System.out.println("Hola como estas ?\nYo bien gracias y tu ? \na ok que te importa :v ");
+    	System.out.println("Hola como estas ?\nYo bien gracias y tu ? \na ok que te importaa :v ");
     }
 }
